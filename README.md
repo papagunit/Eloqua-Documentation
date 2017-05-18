@@ -2,7 +2,7 @@
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
-Topics Addressed
+## Topics Addressed
 
 * The origin of Eloqua and how it fits within the Oracle Marketing Cloud ecosystem
 * Limitations of the Oracle provided documentation
