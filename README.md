@@ -11,7 +11,10 @@ Topics Addressed
 * Every button, modal, and drop down within each feature
 * How Eloqua is configured as an ESP
 * Integration options with your CRM and other databases
+* Integration with your website, how the tracking script works, cookie options
+* AppCloud apps
 * Branding and Deliverability \(configuring with your domain, IP, DKIM, SPF, DMARC\)
+* Eloqua Best Practices, including naming conventions, data cleaning, deliverability, general programs, campaign tricks
 * The community surrounding Eloqua and how to get started
 * The future of Eloqua, and its main competitors
 
