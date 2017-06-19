@@ -5,7 +5,7 @@
 * Login Portal
 * [General Interface](general-interface.md)
 * [API](api.md)
-* Opinion: Oracle
+* [Opinion: Oracle](opinion-oracle.md)
 * [Opinion: Eloqua Documentation](op-ed-eloqua-documentation.md)
 * Opinion: Eloqua
 
