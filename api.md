@@ -20,7 +20,7 @@ What is Swagger?
 
 Wow, this stuff is confusing
 
-Yeah, it is. Because there are really no formal specifications around what an API is, it makes things difficult. Although there is a lot to know within this domain, and there are plenty of abstract concepts, everything you need to know should be right here.
+Yeah, it is. Because there are really no formal specifications around what an API is, it makes things difficult. Although there is a lot to know within this domain, and plenty of abstract concepts to the end user, everything you need to know should be right here.
 
 Getting Started
 
