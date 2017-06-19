@@ -2,7 +2,7 @@
 
 * [Preamble](README.md)
 * [Eloqua in the OMC](chapter1.md)
-* Login Portal
+* [Login Portal](login-portal.md)
 * [General Interface](general-interface.md)
 * [API](api.md)
 * [Opinion: Oracle](opinion-oracle.md)
