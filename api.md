@@ -6,8 +6,6 @@ Eloqua Dev Help Center \(Old\) [http://docs.oracle.com/cloud/latest/marketingcs\
 
 REST API \(Latest\) [http://docs.oracle.com/cloud/latest/marketingcs\_gs/OMCAC/](http://docs.oracle.com/cloud/latest/marketingcs_gs/OMCAC/)
 
-
-
 What is an API?
 
 What is a REST API?
