@@ -1,4 +1,4 @@
-The API isn't commonly discussed, as it is quite elusive to most marketers who don't spend a lot of time programming. However, I will attempt to explain the API an in easy to understand format that anyone can start using to their benefit.
+The API isn't commonly discussed, as it is quite elusive to most marketers who don't spend a lot of time programming. Marketers market, programmers program, but few cross domains from one to the other. I'm here to bridge the gap between the two disciplines, which will inevitably happen as business become more tech centric and demand more out of their marketing teams. Therefore, I will attempt to explain the API an in easy to understand format that anyone can start using to their benefit.
 
 Documentation
 
