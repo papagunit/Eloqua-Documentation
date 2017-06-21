@@ -8,5 +8,7 @@ Unfortunately, there's no official Eloqua changelog that shows all the updates, 
 
 [https://community.oracle.com/docs/DOC-1009989](https://community.oracle.com/docs/DOC-1009989)
 
-https://community.oracle.com/docs/DOC-1008554
+[https://community.oracle.com/docs/DOC-1008554](https://community.oracle.com/docs/DOC-1008554)
+
+https://community.oracle.com/docs/DOC-1013156http://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/eloqua/2016Q2\_eloqua\_rcd.htm
 
