@@ -4,7 +4,7 @@ Unfortunately, there's no official Eloqua changelog that shows all the updates, 
 
 [https://community.oracle.com/community/topliners/eloqua-system-status/blog](https://community.oracle.com/community/topliners/eloqua-system-status/blog)
 
-https://community.oracle.com/docs/DOC-1009989
+https://community.oracle.com/community/topliners/eloqua-system-status
 
-
+[https://community.oracle.com/docs/DOC-1009989](https://community.oracle.com/docs/DOC-1009989)
 
