@@ -8,4 +8,5 @@
 * [Opinion: Oracle](opinion-oracle.md)
 * [Opinion: Eloqua Documentation](op-ed-eloqua-documentation.md)
 * Opinion: Eloqua
+* [Changelog](changelog.md)
 
