@@ -36,9 +36,9 @@ Basic Authentication is the quickest way to get started with the API. It's not a
 
 1. Write down your Company/Instance \(the first field on the Eloqua login page, yes this is case sensitive\), your username \(usually First.Last\), and your password.
 2. Then, put them together but with a backslash `\` between the Company and username, and a colon `:` between the username and password. You end up with `Acme\John.Doe:secret1`.
-3. Base64 the concatenation you previously created. This can be done [online](http://www.motobit.com/util/base64-decoder-encoder.asp), or through a simple BASH command \(through Cygwin or WSL on Windows, or Terminal on OSX\) using the base64 built-in. If using BASH, use the printf utility[^1] and pipe it to base64, and be mindful of escaping your backslash. For example, `printf Acme\\John.Doe:secret1 | base64`. Copy that output and save it somewhere, this is your authentication header. For our example, the output would be `QWNtZVxKb2huLkRvZTpzZWNyZXQx`. You can verify this by decoding it, using `base64 -d <<< QWNtZVxKb2huLkRvZTpzZWNyZXQx` .
+3. Base64 the concatenation you previously created. This can be done [online](http://www.motobit.com/util/base64-decoder-encoder.asp), or through a simple BASH command \(through Cygwin or WSL on Windows, or Terminal on OSX\) using the base64 built-in. If using BASH, use the printf utility[^1] and pipe it to base64, and be mindful of escaping your backslash. For example, `printf Acme\\John.Doe:secret1 | base64`. Copy the resulting output and save it somewhere, this is your authentication header. For our example, the output would be `QWNtZVxKb2huLkRvZTpzZWNyZXQx`. You can verify this by decoding it, using `base64 -d <<< QWNtZVxKb2huLkRvZTpzZWNyZXQx` .
 
 Determine your Base URL
 
-[^1]: echo doesn't work in this case because it adds a newline to its output. You can prove this by emulating the same result using `printf '%s\n' 'something'` and compare it to `echo something`.
+[^1]: echo doesn't work in this case because it adds a newline to its output. You can prove this by emulating the same result using `printf '%s\n' 'something' | base64` and compare it to `echo something | base64`.
 
