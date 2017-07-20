@@ -7,8 +7,7 @@
 * [API](api.md)
 * [Opinion: Oracle](opinion-oracle.md)
 * [Opinion: Eloqua Documentation](op-ed-eloqua-documentation.md)
-* Opinion: Eloqua
+* [Opinion: Eloqua](opinion-eloqua.md)
 * [Changelog](changelog.md)
-
-
+* [Transparancy](transparancy.md)
 
