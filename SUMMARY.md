@@ -10,4 +10,5 @@
 * [Opinion: Eloqua](opinion-eloqua.md)
 * [Changelog](changelog.md)
 * [Transparancy](transparancy.md)
+* [Custom Objects](custom-objects.md)
 
