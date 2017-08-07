@@ -11,4 +11,5 @@
 * [Changelog](changelog.md)
 * [Transparancy](transparancy.md)
 * [Custom Objects](custom-objects.md)
+* [Professional Services](professional-services.md)
 
