@@ -9,7 +9,7 @@
 * [Opinion: Eloqua Documentation](op-ed-eloqua-documentation.md)
 * [Opinion: Eloqua](opinion-eloqua.md)
 * [Changelog](changelog.md)
-* [Transparancy](transparancy.md)
+* [Transparency](transparancy.md)
 * [Custom Objects](custom-objects.md)
 * [Professional Services](professional-services.md)
 
