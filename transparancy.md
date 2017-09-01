@@ -1,4 +1,4 @@
-# Transparancy/My Relations
+# Transparency/My Relations
 
 Unlike most you will find writing about this topic, I don't have ties to any organization that is relevant to this book. I am not advocating for or against Eloqua or their competitors. I try to look at Eloqua objectively, and as a tool. You can objectively compare the features and offerings of various tools, but it would be impetuous to declare a particular tool as superior.
 
